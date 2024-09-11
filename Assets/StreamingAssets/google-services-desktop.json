@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "529499270790",
+    "firebase_url": "https://barrierdash-9dc7b-default-rtdb.firebaseio.com",
+    "project_id": "barrierdash-9dc7b",
+    "storage_bucket": "barrierdash-9dc7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529499270790:android:a863781095d9e5cfc62b07",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.BarrierDash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwlelmP50d0kXedIF_SmGP80TT-eSI3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
